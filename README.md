@@ -94,7 +94,8 @@ class OnlineSalesRegisterCollector:
 * Посчитать сумму элементов списка поможет функция ***sum()***.
 * Чтобы выяснить общую сумму НДС, сложи результаты ***ten_percent_tax_calculation()*** и ***twenty_percent_tax_calculation()***.
 
-* Чтобы вернуть полный номер телефона, используй ***f-strings***. Добавь +7 к аргументу ***elephone_number***.
+* Чтобы вернуть полный номер телефона, используй ***f-strings***. Добавь +7 к аргументу ***telephone_number***.
+
 
 
 
